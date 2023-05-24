@@ -8,11 +8,7 @@
 2. Create a image that best represents the work.
 
 # ⭐ Teaching Tools
--Youtube
--Wordcloud
--gTTS (Google Text-to-Speech)
--Kahoot
--Bing.com
+-Youtube, Wordcloud, gTTS (Google Text-to-Speech), Kahoot, Bing.com
 
 # ⭐ Lesson Structure (50 minutes)
 -Introduction (5 minutes)
