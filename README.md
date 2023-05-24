@@ -5,7 +5,7 @@
 
 # Lesson Objective
 1. Read the English literature work "The Perfect Match" and understand the perspectives of the characters.
-Create a image that best represents the work.
+2. Create a image that best represents the work.
 
 # Teaching Tools
 -Youtube
