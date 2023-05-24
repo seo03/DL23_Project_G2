@@ -1,22 +1,37 @@
 # DL23_Project_G2
 
+# Target student
+3rd-grade middle school students
 
-# 수업 대상
-고등학교 2학년 학생들
+# Lesson Objective
+1. Read the English literature work "The Perfect Match" and understand the perspectives of the characters.
+Create a image that best represents the work.
 
-# 수업 목표
-영문학 작품을 읽고 등장인물의 입장을 이해할 수 있다.
-한 인물의 입장에서...? 영상 만들기?
+# Teaching Tools
+-Youtube
+-Wordcloud
+-gTTS (Google Text-to-Speech)
+-Kahoot
+-Bing.com
 
-# 수업 도구
-Youtube, Worksheet, QR 
-Wordcloud, gTTS, steve AI, Voki, Bing.com, Kahoot
+# Lesson Structure (50 minutes)
+-Introduction (5 minutes)
+-Development (30 minutes)
+-Conclusion (15 minutes)
 
-# 수업 과제
-단어 퀴즈, 발음 연습, 동영상 제작?
+-Introduction:
+Greetings and warm-up
+Motivation (YouTube video)
+Presentation of lesson tasks (Wordcloud)
 
-# 수업 구성 (50분) 
-- 도입(5분), 전개(30분), 마무리(15분)
-1. 도입 - 인사, 동기유발, 수업목표, 수업과제 제시
-3. 전개 - 수업과제 수행...
-4. 마무리 - 활동 요약, 피드백, 다음 차시 예고
+-Development:
+Vocabulary quiz
+Introduction of the plot
+Plot quiz using Kahoot
+Discussion
+Creating Bing images related to the story
+
+-Conclusion:
+Summary of activities
+Feedback
+Preview of the next lesson
