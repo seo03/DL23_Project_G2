@@ -16,22 +16,21 @@
 
 # Lesson Structure (50 minutes)
 -Introduction (5 minutes)
--Development (30 minutes)
--Conclusion (15 minutes)
+-Development (35 minutes)
+-Conclusion (10 minutes)
 
--Introduction:
+1. Introduction
 Greetings and warm-up
 Motivation (YouTube video)
 Presentation of lesson tasks (Wordcloud)
 
--Development:
+2. Development
 Vocabulary quiz
 Introduction of the plot
 Plot quiz using Kahoot
 Discussion
 Creating Bing images related to the story
 
--Conclusion:
+3. Conclusion:
 Summary of activities
 Feedback
-Preview of the next lesson
