@@ -19,7 +19,7 @@
 Greetings and warm-up,Motivation (YouTube video), Presentation of lesson tasks (Wordcloud)
 
 2. Development: 
-Vocabulary quiz, Introduction of the plot (Steve ai), Plot quiz (Kahoot)
+Vocabulary quiz, Introduction of the plot (Steve ai), Plot quiz (Kahoot => QR)
 Discussion, Creating Bing images related to the story (Bing)
 
 3. Conclusion: 
