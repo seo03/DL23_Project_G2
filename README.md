@@ -1,4 +1,4 @@
-# DL23_Project_G2
+# Lesson Plan
 
 # ⭐ Target student
 3rd-grade middle school students
@@ -15,13 +15,7 @@
 -Development (35 minutes)
 -Conclusion (10 minutes)
 
-1. Introduction: 
-Greetings and warm-up,Motivation (YouTube video), Presentation of lesson tasks (Wordcloud)
-
-2. Development: 
-Vocabulary quiz, Introduction of the plot (Steve ai), Plot quiz (Kahoot => QR),
-Discussion, Creating Bing images related to the story (Bing)
-
-3. Conclusion: 
-Sharing Images, Summary of activities, 
-Feedback
+| Introduction | Development | Conclusion |
+| ------------ | ----------- | ---------- |
+| Greetings and warm-up, Motivation (YouTube video), Presentation of lesson tasks (Wordcloud) | Vocabulary quiz, Introduction of the plot (Steve ai), Plot quiz (Kahoot => QR),
+Discussion, Creating Bing images related to the story (Bing) | Sharing Images, Summary of activities, Feedback
