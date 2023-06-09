@@ -1,4 +1,5 @@
 # Lesson Plan
+📕 Learning English literature works using digital tools
 
 # ⭐ Target student
 3rd-grade middle school students
@@ -8,7 +9,7 @@
 2. Create a image that best represents the work.
 
 # ⭐ Teaching Tools
--Youtube, Wordcloud, gTTS (Google Text-to-Speech), Steve ai, Kahoot, Padlet, Bing.com
+-Youtube, Wordcloud, Steve AI, Google form, Padlet, DALL·E
 
 # ⭐ Lesson Structure (50 minutes)
 -Introduction (5 minutes)
@@ -17,5 +18,5 @@
 
 | Introduction | Development | Conclusion |
 | ------------ | ----------- | ---------- |
-| Greetings and warm-up, Motivation (YouTube video), Presentation of lesson tasks (Wordcloud) | Vocabulary quiz, Introduction of the plot (Steve ai), Plot quiz (Kahoot => QR),
-Discussion, Creating Bing images related to the story (Bing) | Sharing Images, Summary of activities, Feedback
+| Greetings and warm-up, Motivation (YouTube video + Wordcloud) | Word quiz, Introduction of the plot (Steve AI), Plot quiz (Google form),
+Discussion, Creating images related to the story (DALL·E) | Sharing Images (Padlet)
