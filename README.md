@@ -1,7 +1,7 @@
 # 📕 Lesson Plan
 
-[Colab](https://colab.research.google.com/github/seo03/DL23_Project_G2/blob/main/myproject_final.ipynb)
-[title](https://www.example.com)
+1. [Colab](https://colab.research.google.com/github/seo03/DL23_Project_G2/blob/main/myproject_final.ipynb)
+2. [title](https://www.example.com)
 
 - Learning English literature works using digital tools
 - The utilization of digital tools in learning English
